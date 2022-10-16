@@ -1,2 +1,5 @@
 python-3.10.7
 php 7.4.19
+heroku3
+sqlalchemy==1.3.20
+gitpython
